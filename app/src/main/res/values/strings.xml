@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Animation Sample</string>
+    <string name="title_home">Home</string>
+    <string name="title_interpolator">Interpolator</string>
+    <string name="title_drawable">Drawable Animation</string>
+    <string name="title_drawable_ripple">Drawable Animation (Ripple)</string>
+    <string name="title_drawable_loading">Drawable Animation (Loading)</string>
+    <string name="title_drawable_gradient">Drawable Animation (Gradient)</string>
+    <string name="title_drawable_notification">Drawable Animation (Notification)</string>
+    <string name="title_view_animation">View Animation</string>
+    <string name="title_view_property">ViewPropertyAnimator</string>
+    <string name="title_view_property_recycler_view">ViewPropertyAnimator (RecyclerView)</string>
+    <string name="title_animator">Animator</string>
+    <string name="title_animator_circular_reveal">Animator (Circular Reveal)</string>
+    <string name="title_animator_layout_transition">Animator (LayoutTransition)</string>
+    <string name="title_sla">StateListAnimator</string>
+    <string name="title_dynamic_fling">FlingAnimation</string>
+    <string name="title_dynamic_spring">SpringAnimation</string>
+    <string name="title_dynamic_spring_recycler_view">SpringAnimation (RecyclerView)</string>
+    <string name="title_transition">Transition</string>
+    <string name="title_shared_elements">SharedElements (Master)</string>
+    <string name="title_shared_elements_detail">SharedElements (Detail)</string>
+    <string name="title_third_party">Third Party</string>
+    <string name="title_custom_constraint_layout">Custom (ConstraintLayout)</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="soup.droidknights.animation">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup">
+        <activity android:name="soup.droidknights.animation.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".purpose.ClickActivity" />
+        <activity android:name=".purpose.LoadingActivity" />
+        <activity android:name=".loading.Loading01Activity" />
+        <activity android:name=".loading.Loading02Activity" />
+        <activity android:name=".loading.Loading03Activity" />
+        <activity android:name=".loading.Loading04Activity" />
+        <activity android:name=".loading.Loading05Activity" />
+        <activity android:name=".click.Click01Activity" />
+        <activity android:name=".click.Click02Activity" />
+        <activity android:name=".click.Click03Activity" />
+        <activity android:name=".click.Click04Activity" />
+        <activity android:name=".click.Click05Activity" />
+        <activity android:name=".transition.Transition01Activity" />
+        <activity android:name=".transition.Transition02Activity" />
+        <activity android:name=".transition.Transition03Activity" />
+    </application>
+
+</manifest>
