@@ -6,11 +6,18 @@
     android:layout_height="match_parent"
     tools:context="soup.droidknights.animation.purpose.ClickActivity">
 
-    <Button
+    <TextView
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:stateListAnimator="@animator/state_list_animator"
+        android:text="StateListAnimator"
+        android:textColor="@color/colorBackground"
+        android:textSize="24dp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

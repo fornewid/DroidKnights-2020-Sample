@@ -6,14 +6,11 @@
     android:layout_height="match_parent"
     tools:context="soup.droidknights.animation.loading.Loading01Activity">
 
-
     <ProgressBar
-        android:id="@+id/loadingCustom"
-        style="@style/Widget.AppCompat.ProgressBar"
+        android:id="@+id/loading_view"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:layout_margin="4dp"
-        android:indeterminateDrawable="@drawable/loading_custom"
+        android:indeterminateDrawable="@drawable/loading_01"
         android:indeterminateDuration="1000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

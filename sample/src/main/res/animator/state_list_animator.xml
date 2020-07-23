@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="backgroundColor"
+            android:valueFrom="@color/colorAccent"
+            android:valueTo="#9900F2B2"
+            android:valueType="colorType" />
+    </item>
+    <item>
+        <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="backgroundColor"
+            android:valueFrom="#9900F2B2"
+            android:valueTo="@color/colorAccent"
+            android:valueType="colorType" />
+    </item>
+</selector>

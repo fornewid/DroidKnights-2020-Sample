@@ -6,7 +6,7 @@
         tools:height="200dp"
         tools:width="200dp">
         <rotate
-            android:drawable="@drawable/loading_custom_progress"
+            android:drawable="@drawable/loading_01_progress"
             android:fromDegrees="0"
             android:pivotX="50%"
             android:pivotY="50%"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/ic_loading_run"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_loading_bike"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_loading_car"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_loading_boat"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_loading_flight"
+        android:duration="500" />
+</animation-list>
