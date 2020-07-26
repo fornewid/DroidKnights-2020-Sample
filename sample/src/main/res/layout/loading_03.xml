@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="soup.droidknights.animation.loading.Loading01Activity">
+    tools:context="soup.droidknights.animation.loading.Loading03Activity">
 
     <ProgressBar
         android:id="@+id/progress_view"
@@ -20,16 +20,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:progress="200" />
-
-    <ImageView
-        android:id="@+id/icon"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:scaleType="centerInside"
-        android:src="@drawable/ic_android"
-        app:layout_constraintBottom_toBottomOf="@id/progress_view"
-        app:layout_constraintEnd_toEndOf="@id/progress_view"
-        app:layout_constraintStart_toStartOf="@id/progress_view"
-        app:layout_constraintTop_toTopOf="@id/progress_view" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
