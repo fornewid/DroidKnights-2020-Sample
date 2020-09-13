@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Animation_Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Animation_Sample.iml" group="Animation_Sample" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Animation Sample/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/sample.iml" group="Animation Sample/sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidKnights-2020-Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidKnights-2020-Sample.iml" group="DroidKnights-2020-Sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/sample.iml" group="DroidKnights-2020-Sample/sample" />
     </modules>
   </component>
 </project>
